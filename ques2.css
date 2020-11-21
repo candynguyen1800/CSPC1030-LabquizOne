@@ -1,0 +1,12 @@
+td1 {
+  border: 80px solid black;
+  border-collapse: collapse;
+}
+
+td2{
+  background-color: red;
+}
+
+td3 {
+  background-color:green;
+}

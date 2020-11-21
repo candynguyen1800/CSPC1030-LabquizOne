@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+table, th, td {
+  border: 1px solid black;
+
+}
+
+tr {
+  	background-color:#4CAf50;
+		font-family: Arial;
+		color: #ffffff;
+}
+
+td {
+	font-family: courier new;
+	background-color:cyan;
+
+
+}
+
+</html>
+</head>
+</body>
